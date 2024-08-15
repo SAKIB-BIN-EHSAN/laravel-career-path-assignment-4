@@ -1,0 +1,3 @@
+66be12677611d,Admin,admin@admin.com,$2y$10$IIyFUNlSeOqIlNApG58U7uCPkYgHA7pF0RHgx5H/VYbkHitwT1Wb6,Admin
+66be1371eaaca,Sakib,sakib@gmail.com,$2y$10$Q52OGd6tQtLDLU.DnjWFwuqZs4o1QJ7CtG1djJB9fk8Wj8aovO0J2,Customer
+66be13e3e0b6d,Saad Ehsan,saad@gmail.com,$2y$10$m00m./JQY10XyqmCT.Y61uItW30.A8KB/D2RH1J2hvEd9rn5mIZQm,Customer

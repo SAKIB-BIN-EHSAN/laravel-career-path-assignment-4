@@ -1,0 +1,3 @@
+66be12677611d,admin@admin.com,0.0
+66be1371eaaca,sakib@gmail.com,0
+66be13e3e0b6d,saad@gmail.com,1000
